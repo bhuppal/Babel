@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/bhuppal/Babel/issues"
   },
-  "homepage": "https://github.com/bhuppal/Babel#readme"
+  "homepage": "https://github.com/bhuppal/Babel#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0"
+  }
 }
