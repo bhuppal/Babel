@@ -1,0 +1,23 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "To understand Babel transpilation procress with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuppal/Babel.git"
+  },
+  "keywords": [
+    "babel",
+    "webpack"
+  ],
+  "author": "Bhuppal Kumar G H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhuppal/Babel/issues"
+  },
+  "homepage": "https://github.com/bhuppal/Babel#readme"
+}
